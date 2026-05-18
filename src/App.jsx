@@ -1268,7 +1268,7 @@ export default function App() {
 
                 {/* DISCORD */}
                 <a
-                  href="#"
+                  href="https://discord.gg/BqrsPmVz"
                   className="
                     group
                     border border-pink-500/30
